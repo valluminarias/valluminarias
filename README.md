@@ -30,4 +30,5 @@
   <img src="https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Web3.js-#F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
 </p>

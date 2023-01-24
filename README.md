@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CapacitorJs-119EFF?style=flat-square&logo=Capacitor&logoColor=white"/>
 </p>
 
 ### 💡 Learning
@@ -30,5 +31,6 @@
   <img src="https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Web3.js-#F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
 </p>

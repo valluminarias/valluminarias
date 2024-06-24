@@ -4,6 +4,7 @@
 
 ### 💻 Coding Arsenal
 <p>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -19,9 +20,10 @@
   <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ElectronJs-47848F?style=flat-square&logo=Electron&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-IonicJs-3880FF?style=flat-square&logo=Ionic&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CapacitorJs-119EFF?style=flat-square&logo=Capacitor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-InertiaJs-9553E9?style=flat-square&logo=Inertia&logoColor=white"/>
 </p>
 
 ### 💡 Learning
@@ -31,6 +33,7 @@
   <img src="https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=Tauri&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Portainer-13BEF9?style=flat-square&logo=portainer&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
 </p>

@@ -37,3 +37,4 @@ ___
   [<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>](https://flutter.dev)
   [<img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white"/>](https://react.dev/)
   [<img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>](https://web3js.org)
+  [<img src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>](https://godotengine.org/)
